@@ -19,8 +19,7 @@ Meu portfólio pessoal feito com HTML e CSS
 
 - 💼 [Portfólio Pessoal](https://github.com/kayoryan/portfolio)
 - 🎬 [Clonando a Netflix com HTML e CSS](https://github.com/kayoryan/netflix-clone)
-- 📱 [Calculadora em JavaScript](https://github.com/kayoryan/calculadora-js](https://Kayo-santo.github.io/calculadora-js](https://kayo-santo.github.io/calculadora-js/)
-
+- 📱 [Calculadora em JavaScript](https://Kayo-santo.github.io/calculadora-js)
 ---
 
 ### 📫 Como me encontrar
