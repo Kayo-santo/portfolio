@@ -26,7 +26,7 @@ Meu portfólio pessoal feito com HTML e CSS
 ### 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/kayo-santos-a8947429b/)  
-- [Email](kayo40200@gmail.com)  
+- [Email](mailto:kayo40200@gmail.com)  
 - [Portfólio (https://github.com/Kayo-santo/portfolio)
 
 ---
